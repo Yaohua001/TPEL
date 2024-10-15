@@ -6,7 +6,9 @@
 
 `-` It is provided for research and educational purposes only. If you find this Python-based COMSOL simulation model useful, please kindly reference our paper.
 
-![Overview](./fig/Overview.png)
+![Overview](./fig/Overview_1.png)
+
+![Overview](./fig/Overview_2.png)
 
 
 
