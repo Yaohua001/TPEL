@@ -1,7 +1,7 @@
 # Creating an Inductive Power Transfer Model: A Comprehensive Guide from Scratch
 
 
-![Overview](./fig/Overview.png)
+![Overview](/fig/Overview.png)
 
 `-` An open-source, universal simulation model based on Python and Java is available in this folder for future coupler design in IPT systems.
 
