@@ -9,4 +9,4 @@
 
 `-` It is provided for research and educational purposes only. If you find this Python-based COMSOL simulation model useful, please kindly reference our paper.
 
-# Creating an Inductive Power Transfer Model: A Comprehensive Guide from Scratch
+# Creating an Inductive Power Transfer Model: A Comprehensive Guide from
