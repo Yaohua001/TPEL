@@ -1,4 +1,4 @@
-# Creatin an Inductive Power Transfer Model: A Comprehensive Guide from Scratch
+# Creating an Inductive Power Transfer Model: A Comprehensive Guide from Scratch
 
 
 ![Overview](./fig/Overview.png)
